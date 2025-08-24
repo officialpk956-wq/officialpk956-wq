@@ -17,9 +17,9 @@
 
 - 📫 How to reach me **officialpk956@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CXdjPYj7rStlunppkoCJxKXAPT4yi84D/view?usp=sharing](https://drive.google.com/file/d/1CXdjPYj7rStlunppkoCJxKXAPT4yi84D/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am Funny**
+
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
