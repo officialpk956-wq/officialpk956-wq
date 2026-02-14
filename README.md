@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋 I'm Priyanshu Kumar</h1>
+<h1 align="center">Priyanshu Kumar</h1>
 
 <h3 align="center">
-B.Tech Chemical Engineering @ BIT Mesra | 
-AI & Data Science Enthusiast | 
-Building Intelligent Systems from Research to Production
+B.Tech Chemical Engineering | BIT Mesra  
+Artificial Intelligence • Data Science • Applied Machine Learning
 </h3>
 
 <p align="center">
-Exploring the intersection of Earth Observation, Deep Learning, and Applied Analytics.
+Designing intelligent systems that bridge research, data, and real-world decision making.
 </p>
 
 <p align="center">
@@ -16,66 +15,52 @@ Exploring the intersection of Earth Observation, Deep Learning, and Applied Anal
 
 ---
 
-## 🚀 What I'm Working On
+## 🔬 Research & Engineering Focus
 
-- 🔬 **Paper2Code** – Converting research papers into structured, executable implementations  
-  👉 https://github.com/officialpk956-wq/paper2code  
+I work at the intersection of **AI research and applied analytics**, building systems that translate theoretical models into scalable, production-ready solutions.
 
-- 📊 **Ecommerce Funnel Analytics** – Session-level behavioral analytics & forecasting  
-  👉 https://github.com/officialpk956-wq/ecommerce-funnel-analytics  
+Current focus areas:
 
-- 🛰️ Remote sensing & satellite super-resolution research (MODIS → Landsat)
-
----
-
-## 🧠 Currently Learning
-
-- NLP & Large Language Models  
-- Agentic AI Systems  
+- Satellite Image Super-Resolution (MODIS → Landsat)
+- NLP & Agentic AI Systems
 - Explainable AI (XAI)
+- Behavioral & Funnel Analytics
+- End-to-End Machine Learning Pipelines
 
 ---
 
-## 🤝 Open To
+## 🚀 Featured Projects
 
-- Collaborations in AI Research & Applied ML  
-- Data Science Projects  
-- Building scalable ML systems  
+### 📄 Paper2Code  
+Translating research papers into structured, reproducible implementations to accelerate experimentation and model validation.  
+🔗 https://github.com/officialpk956-wq/paper2code  
+
+### 📊 Ecommerce Funnel Analytics  
+Session-level clickstream analysis on ~1M+ records, funnel metric design, forecasting, and SQL-ready fact modeling.  
+🔗 https://github.com/officialpk956-wq/ecommerce-funnel-analytics  
+
+### 🛰️ Remote Sensing Super-Resolution  
+Deep learning framework for enhancing low-resolution satellite imagery to improve environmental monitoring precision.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Technical Stack
 
-### Languages
+### Programming
 Python | C | SQL  
 
-### Machine Learning & AI
+### Machine Learning
 PyTorch | TensorFlow | Scikit-Learn | OpenCV  
 
-### Data & Analytics
-Pandas | NumPy | Seaborn | PostgreSQL | MySQL  
+### Data & Systems
+Pandas | NumPy | PostgreSQL | MySQL | Matplotlib | Seaborn  
+
+### Core Competencies
+Machine Learning • Deep Learning • NLP • Model Evaluation • Feature Engineering • Data Pipeline Design • Forecasting
 
 ---
 
-## 📄 Resume
-https://drive.google.com/file/d/1CXdjPYj7rStlunppkoCJxKXAPT4yi84D/view
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/priyanshu-kumar" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/thefreak_956" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-</p>
-
----
-
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=officialpk956-wq&show_icons=true&theme=tokyonight" />
@@ -85,5 +70,25 @@ https://drive.google.com/file/d/1CXdjPYj7rStlunppkoCJxKXAPT4yi84D/view
 
 ---
 
-## ⚡ Fun Fact
-I enjoy turning complex research ideas into practical, working systems.
+## 📄 Resume
+
+https://drive.google.com/file/d/1CXdjPYj7rStlunppkoCJxKXAPT4yi84D/view
+
+---
+
+## 🌐 Professional Profiles
+
+<p align="left">
+<a href="https://linkedin.com/in/priyanshu-kumar" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="mailto:officialpk956@gmail.com">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🎯 Professional Objective
+
+To build robust, interpretable AI systems that are not only accurate, but reliable, scalable, and decision-oriented.
