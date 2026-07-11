@@ -31,7 +31,7 @@
 
 ## 🧠 About
 
-I turn ambiguous, messy problems — a low-resolution satellite image, a million rows of anonymous clickstream, an unread research paper — into systems that produce a clear, trustworthy answer.
+I turn ambiguous, messy problems  a low-resolution satellite image, a million rows of anonymous clickstream, an unread research paper  into systems that produce a clear, trustworthy answer.
 
 My work lives across **deep learning for remote sensing**, **NLP and agentic AI**, **explainable AI (XAI)**, and **behavioral analytics at scale**. I care less about squeezing out the last 0.1% of benchmark accuracy and more about whether a model's output can be *trusted, explained, and acted on* by someone who isn't me.
 
